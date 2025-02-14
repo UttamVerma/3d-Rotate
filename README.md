@@ -18,5 +18,9 @@ Welcome to **Landing Page **, a visually engaging and interactive landing page b
 - **Assets:** Custom images, Google Fonts
 - **Animations:** CSS keyframes & transition effects
 
+## Currently this is only working for desktop 🖥️ for mobile phones📱 it is coming soon 🔜 ☺️  Peace✌️..
+
+## Credit : https://youtu.be/ymuBowcODVU?si=fFMkLYb9ngzNgbh_
+
  
 
