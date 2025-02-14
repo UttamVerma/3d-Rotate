@@ -10,6 +10,7 @@ Welcome to **Landing Page **, a visually engaging and interactive landing page b
 - 🎉 **Custom Font Styling** with "Karantina" & "Poppins" for a unique look.
 
 ## 📸 Screenshots
+![image](https://github.com/user-attachments/assets/4bac4bf3-f55e-46eb-a0d0-ea5254a4985e)
 
 
 ## 🛠️ Tech Stack
